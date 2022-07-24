@@ -1,0 +1,59 @@
+#title{
+  text-align: center;
+  
+}
+
+#color-palette{
+    padding-bottom: 30px;
+    text-align: center;
+    margin-bottom: 5%;
+}
+
+.color {
+  width: 55px;
+  height: 60px;
+  display: inline-block;
+  margin: 3px;
+  border: solid black 1px;
+}
+
+#black {
+  background-color: black;
+}
+
+#green {
+  background-color: green;
+}
+
+#red {
+  background-color: red;
+}
+#blue {
+  background-color: blue;
+}
+
+#pixel-board{
+  width: 210px;
+  height: 210px;
+  margin: auto;
+}
+
+.pixel {
+    float: left;  
+    width: 40px;
+    height: 40px;
+    display:block;
+    margin: 0px;
+    border: solid black 1px;
+    background-color: white;
+  }
+
+  .button-container {
+    display: flex;
+    text-align: center;
+    width: 10%;
+    height: 100%;
+    margin-top: -250px ;
+    margin-left: 48%;
+  }
+  
