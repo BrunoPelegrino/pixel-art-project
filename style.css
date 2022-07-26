@@ -3,6 +3,11 @@
   
 }
 
+body {
+  background-image: url(images/ricardo-viana--tYsPFKMm7g-unsplash.jpg);
+  background-size: cover ; 
+}
+
 #color-palette{
     padding-bottom: 30px;
     text-align: center;
